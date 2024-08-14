@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:receipe_app/ui/AvtoElon.dart';
+import 'package:receipe_app/ui/avto_details_page.dart';
 import 'package:receipe_app/ui/home_page.dart';
 
 void main() {
